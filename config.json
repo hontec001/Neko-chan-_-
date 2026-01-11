@@ -5,7 +5,7 @@
   "DeveloperMode": false,
   "autoCreateDB": true,
   "autoClean": true,
-  "allowInbox": false,
+  "allowInbox": true,
   "notiGroup": true,
   "NOTIFICATION": true,
   "EMAIL": "your email",
@@ -20,7 +20,7 @@
     "100065560062477",
     "100065560062477"
   ],
-  "NDH": ["100001039692046"],
+  "NDH": ["100065560062477"],
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
